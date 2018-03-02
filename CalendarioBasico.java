@@ -12,9 +12,7 @@ public class CalendarioBasico
     private int d = 1;
     private int m = 1;
     private int a = 1;
-    
    
-    
     /**
      * Constructor for objects of class CalendarioBasico
      */
